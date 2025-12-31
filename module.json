@@ -1,0 +1,46 @@
+{
+  "id": "erkabrew-guide-to-baldurs-gate",
+  "title": "Erkabrew Guide to Baldur's Gate",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "description": "<p>This module, <strong data-path-to-node=\"4,1\" data-index-in-node=\"13\">\"Erkabrew Guide to Baldur's Gate\"</strong>, is unofficial Fan Content permitted under the Fan Content Policy of Wizards of the Coast and the Fan Content Terms of Larian Studios. This project is not approved, endorsed, or sponsored by Larian Studios or Wizards of the Coast.</p><p data-path-to-node=\"4,2\"></p><p>Portions of the materials used (including descriptions, names, and mechanics) are property of Larian Studios and/or Wizards of the Coast. ©Wizards of the Coast LLC. ©Larian Studios.</p><p data-path-to-node=\"4,3\"></p><p>This project is shared <strong data-path-to-node=\"4,3\" data-index-in-node=\"23\">strictly for free</strong>. No payment, subscription, or registration is required to access this content.</p><p data-path-to-node=\"4,4\"></p><p>All icons and images used are for identification purposes only. If you are the owner of any asset and wish for it to be removed, please contact the maintainer of this repository.</p>",
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "equipments",
+      "label": "Items - Equipments",
+      "path": "packs/equipments",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "consumables",
+      "label": "Items - Consumables",
+      "path": "packs/consumables",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    }
+  ],
+  "relationships": {
+    "requires": [
+      {
+        "id": "midi-qol",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  }
+}
