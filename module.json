@@ -1,7 +1,7 @@
 {
   "id": "erkabrew-guide-to-baldurs-gate",
   "title": "Erkabrew Guide to Baldur's Gate",
-  "version": "0.0.1",
+  "version": "0.2.2",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -16,22 +16,22 @@
       "label": "Items - Equipments",
       "path": "packs/equipments",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     },
     {
       "name": "consumables",
       "label": "Items - Consumables",
       "path": "packs/consumables",
       "type": "Item",
+      "system": "dnd5e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "system": "dnd5e"
+      }
     }
   ],
   "relationships": {
