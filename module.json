@@ -4,7 +4,7 @@
   "version": "0.2.2",
   "url": "https://github.com/erkabrew/erkabrew-guide-to-baldurs-gate",
   "manifest": "https://raw.githubusercontent.com/erkabrew/erkabrew-guide-to-baldurs-gate/refs/heads/main/module.json",
-  "download": "github.com/erkabrew/erkabrew-guide-to-baldurs-gate/archive/refs/heads/main.zip",
+  "download": "https://github.com/erkabrew/erkabrew-guide-to-baldurs-gate/archive/refs/heads/main.zip",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
