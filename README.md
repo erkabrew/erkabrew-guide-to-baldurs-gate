@@ -8,3 +8,6 @@ Portions of the materials used (including descriptions, names, and mechanics) ar
 This project is shared strictly for free. No payment, subscription, or registration is required to access this content.
 
 All the icons for the items are directly from the [Baldur's Gate 3 Fan Wiki](https://bg3.wiki/wiki/Items) maintaining the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and / or [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licenses.
+
+### Installation
+The Instalation link of the latest version of the module is: `https://raw.githubusercontent.com/erkabrew/erkabrew-guide-to-baldurs-gate/refs/heads/main/module.json`
