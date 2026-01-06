@@ -11,3 +11,7 @@ All the icons for the items are directly from the [Baldur's Gate 3 Fan Wiki](htt
 
 ### Installation
 The Instalation link of the latest version of the module is: `https://raw.githubusercontent.com/erkabrew/erkabrew-guide-to-baldurs-gate/refs/heads/main/module.json`
+
+```
+Test
+```
