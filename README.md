@@ -12,6 +12,10 @@ All the icons for the items are directly from the [Baldur's Gate 3 Fan Wiki](htt
 ### Installation
 The Instalation link of the latest version of the module is: `https://raw.githubusercontent.com/erkabrew/erkabrew-guide-to-baldurs-gate/refs/heads/main/module.json`
 
+## Objectives
 ```
-Test
+- Put all the items from the game even if it can't be automated to make them exist (In progress)
+- Add all the conditions and effects from the game due that most of the item requires them
+- Add the spells from the game, the reason is the same as previous due to the lack of spells in the DND compendium
+- De very hard work, create macros eventually for the unifished items to make them work
 ```
