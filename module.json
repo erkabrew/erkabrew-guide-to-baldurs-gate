@@ -1,7 +1,7 @@
 {
   "id": "erkabrew-guide-to-baldurs-gate",
   "title": "Erkabrew Guide to Baldur's Gate",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "url": "https://github.com/erkabrew/erkabrew-guide-to-baldurs-gate",
   "manifest": "https://raw.githubusercontent.com/erkabrew/erkabrew-guide-to-baldurs-gate/refs/heads/main/module.json",
   "download": "https://github.com/erkabrew/erkabrew-guide-to-baldurs-gate/archive/refs/heads/main.zip",
