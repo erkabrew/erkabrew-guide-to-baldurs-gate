@@ -1,7 +1,7 @@
 {
   "id": "erkabrew-guide-to-baldurs-gate",
   "title": "Erkabrew Guide to Baldur's Gate",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "url": "https://github.com/erkabrew/erkabrew-guide-to-baldurs-gate",
   "manifest": "https://raw.githubusercontent.com/erkabrew/erkabrew-guide-to-baldurs-gate/refs/heads/main/module.json",
   "download": "https://github.com/erkabrew/erkabrew-guide-to-baldurs-gate/archive/refs/heads/main.zip",
@@ -35,6 +35,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "items-features",
+      "label": "Features - Items Features",
+      "path": "packs/items-features",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
     }
   ],
   "relationships": {
