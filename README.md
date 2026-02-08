@@ -1,6 +1,6 @@
 <img width="1536" height="768" alt="Erkabrew Guide to Baldur&#39;s Gate" src="https://github.com/user-attachments/assets/a7770660-41c8-4e91-860c-f4972a888937" />
-# Erkabrew Guide to Baldur's Gate
 
+# Erkabrew Guide to Baldur's Gate
 A module that adds all the items from Baldur's Gate 3 so you can use them on Foundry VTT.
 
 This module, "Erkabrew Guide to Baldur's Gate", is unofficial Fan Content permitted under the [Fan Content Policy of Wizards of the Coast](https://company.wizards.com/en/legal/fancontentpolicy) and the [Fan Content Terms of Larian Studios](https://larian.tech/fan-content-policy/). This project is not approved, endorsed, or sponsored by Larian Studios or Wizards of the Coast.
